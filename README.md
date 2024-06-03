@@ -1,6 +1,7 @@
 # Resolution Proof System in Prolog
 
 This repository contains a Prolog implementation of a resolution theorem prover as part of a Logic and Verification coursework. The project is based on Exercise 3.3.3 from Fitting’s book, which provides a structured guide to developing a resolution-based theorem prover that handles various propositional logic connectives.
+Coursework Score: 96%
 
 ## Project Overview
 
